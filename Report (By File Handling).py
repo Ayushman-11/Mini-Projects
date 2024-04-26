@@ -30,3 +30,6 @@ for idx, line in enumerate(lines):
 
 with open("C:\\Users\\ayush\\OneDrive\\Documents\\report_card.txt", 'w') as file:
     file.write(report_card)
+
+
+#Coding by Ayushman Yadav
