@@ -16,3 +16,6 @@ if order == '1':
 else:
    for num in range(end, start - 1, -1):
        print(num, end=' ' if display == '3' else '\n')
+
+
+#Coding by Ayushman Yadav
