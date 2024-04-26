@@ -27,6 +27,7 @@ def number_guessing_game():
                 print(f"Sorry, you ran out of attempts! The secret number is {secret_number}.")
                 break
     elif choice=="n":
+        
         while True:
             guess = int(input(f"Guess a number between {lowest} and {highest}: "))
 
@@ -39,3 +40,6 @@ def number_guessing_game():
                 break
 
 number_guessing_game()
+
+
+#Coding by Ayushman Yadav
