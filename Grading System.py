@@ -18,3 +18,5 @@ elif g<40:
     print(f"{n} Your Grade is F , Fail")
 elif g>100 or g<0:
     print("!Invalid Input!")
+
+#Coding by Ayushman Yadav
