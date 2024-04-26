@@ -42,4 +42,4 @@ def number_guessing_game():
 number_guessing_game()
 
 
-#Coding by Ayushman Yadav
+#Code by Ayushman Yadav
